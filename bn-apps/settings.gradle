@@ -1,5 +1,5 @@
 include ':cordapp-updates-distribution:corda-updates-core'
-include ':cordapp-updates-distribution:maven-transport-flows'
+include ':cordapp-updates-distribution:maven-resolver-transport-flows'
 include ':ledger-sync:ledger-sync-service'
 include ':memberships-management:membership-service'
 include ':memberships-management:membership-service-contracts-and-states'
